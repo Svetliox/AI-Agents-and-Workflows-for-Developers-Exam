@@ -9,10 +9,6 @@ The project implements an educational **medical symptom assistant** that:
 - Generates a short, console-friendly recommendation
 - Pauses for **Human-in-the-Loop (HITL)** review (approve/revise) before finalizing
 
-## Contents
-- Notebook: `AI-Agents-and-Workflows-for-Developers-Exam-Svetoslav-Yavorov.ipynb`
-- README: this file
-
 ## Requirements
 
 ### Runtime
